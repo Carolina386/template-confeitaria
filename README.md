@@ -29,4 +29,5 @@ Este projeto não foi construído focado apenas na estética, mas sim em **Psico
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/Carolina386/template-confeitaria.git](https://github.com/Carolina386/template-confeitaria.git)
+
+Acesse o projeto ao vivo: [Visualizar Landing Page](https://carolina386.github.io/template-confeitaria/)
